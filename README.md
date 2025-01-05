@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Praciting DS & Algos in Python](https://github.com/Kossigade18/SystemAdministrationLab)
 
 
 <h2>📺 System Administration Projects:</h2>
