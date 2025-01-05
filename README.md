@@ -7,7 +7,7 @@
 
 <h2>📺 System Administration Projects:</h2>
 
-- [System administration](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [System administration](https://github.com/EricGade/Sys-Admin)
 
 - <h2>📺 Certifications:</h2>
 
