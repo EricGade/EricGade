@@ -12,6 +12,7 @@
 - <h2>📺 Certifications:</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/fb7a31b5-8852-4743-a277-2b34efc5f286/linked_in_profile)
+- [CompTIA Security+](https://www.credly.com/badges/fb7a31b5-8852-4743-a277-2b34efc5f286/linked_in_profile)
 
 <h2> 🤳Contact or Connect with me:</h2>
 
