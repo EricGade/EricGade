@@ -8,6 +8,8 @@
 <h2>📺 System Administration Projects:</h2>
 
 - [System administration](https://github.com/EricGade/Sys-Admin)
+- [Installing Hyper-V Manager](https://github.com/EricGade/Hyper-V-Manager-Installation)
+
 
 - <h2>📺 Certifications:</h2>
 
