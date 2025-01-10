@@ -2,11 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Praciting DS & Algos in Python](https://github.com/Kossigade18/SystemAdministrationLab)
+- [comming...](https://github.com/Kossigade18/SystemAdministrationLab)
 
 
 <h2>📺 System Administration Projects:</h2>
 
+- [Home Lab Setup: Active Directory & Add Users w/PowerShell (Hyper-V)](https://github.com/EricGade/Hyper-V-Manager-Installation)
 - [Installing Hyper-V Manager](https://github.com/EricGade/Hyper-V-Manager-Installation)
 
 
