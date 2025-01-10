@@ -7,7 +7,7 @@
 
 <h2>📺 System Administration Projects:</h2>
 
-- [Home Lab Setup: Active Directory & Add Users w/PowerShell (Hyper-V)](https://github.com/EricGade/Hyper-V-Manager-Installation)
+- [Home Lab: AD & PowerShell (Hyper-V)](https://github.com/EricGade/Hyper-V-Manager-Installation)
 - [Installing Hyper-V Manager](https://github.com/EricGade/Hyper-V-Manager-Installation)
 
 
