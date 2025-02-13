@@ -1,20 +1,15 @@
 <h1>Hi, I'm Eric, a <br/><a href="https://www.linkedin.com/in/eric-gadeh/">Help Desk Technician II - Field Service</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- [comming...](https://github.com/Kossigade18/SystemAdministrationLab)
-
-
-<h2>📺 System Administration Projects:</h2>
+<h2>🧑‍💻 System Administration Projects:</h2>
 
 - [Home Lab: AD & PowerShell (Hyper-V)](https://github.com/EricGade/HomeLab-AD-Powershell)
 - [Installing Hyper-V Manager](https://github.com/EricGade/Hyper-V-Manager-Installation)
 
 
-- <h2>📺 Certifications:</h2>
+<h2>📺 Certifications:</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/fb7a31b5-8852-4743-a277-2b34efc5f286/linked_in_profile)
-- [CompTIA Security+](https://www.credly.com/badges/fb7a31b5-8852-4743-a277-2b34efc5f286/linked_in_profile)
+- [CompTIA Security+ pending...](https://www.credly.com/badges/fb7a31b5-8852-4743-a277-2b34efc5f286/linked_in_profile)
 
 <h2> 🤳Contact or Connect with me:</h2>
 
