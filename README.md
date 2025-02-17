@@ -2,7 +2,7 @@
 
 <h2>🧑‍💻 System Administration Projects:</h2>
 
-- [Home Lab: AD & PowerShell (Hyper-V)](https://github.com/EricGade/HomeLab-AD-Powershell)
+- [Active Directory AD & PowerShell Project](https://github.com/EricGade/HomeLab-AD-Powershell)
 - [Installing Hyper-V Manager](https://github.com/EricGade/Hyper-V-Manager-Installation)
 
 
